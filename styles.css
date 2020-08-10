@@ -1,0 +1,130 @@
+.top-container{
+background-color: #E4F9F5;
+padding: 6rem;
+}
+
+h1{
+margin: 50px auto 0 auto;
+font-family: 'serif';
+font-size: 4rem;
+color: #66BFBF;
+}
+
+body{
+color: #40514E;
+margin:0px;
+text-align: center;
+font-family: 'Merriweather';
+}
+.middle-container {
+}
+.bottom-container{
+
+}
+.bottom-cloud{
+position: absolute;
+left: 350px;
+bottom: auto;
+}
+.top-cloud{
+position: absolute;
+right: 400px;
+top: 60px;
+
+}
+h2{
+font-family: 'Montserrat';
+font-size: 2rem;
+color: #66BFBF;
+}
+h3{
+font-family: 'Montserrat';
+color: #11999E;
+}
+.profile-img{
+height: 200px;
+width:200px;
+}
+.footer-link{
+color: #11999E;
+}
+.skill-row{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+.bi-img{
+width:25%;
+float: left;
+margin-right: 30px;
+}
+.dataanalyst-img{
+width: 25%;
+float: left;
+}
+dataengineer-img{
+width:25%;
+float: left;
+margin-right: 30px;
+}
+webdeveloper-img{
+width: 25%;
+float: right;
+margin-left: 30px;
+}
+.profile{
+width: 50%;
+margin:50px auto 50px auto;
+line-height: 2;
+}
+hr{
+border: dotted #EAF6F6 6px;
+border-bottom: none;
+width: 10%;
+margin: 100px auto;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 30px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+.button3 {background-color: #A0522D;} /* Yellow */
+.button4 {background-color: #800000;} /* Maroon */
+.button5 {background-color: #000000;} /* Black */
